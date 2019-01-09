@@ -4,7 +4,7 @@ import Form from "./Form";
 
 class Apps extends Component {
   state = {
-    userDetail: [
+    userDetail: [ 
     ]
   };
   deleteUserData = index => {
