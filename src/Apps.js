@@ -6,6 +6,7 @@ class Apps extends Component {
   state = {
     userDetail: [ 
     ]
+  
   };
   deleteUserData = index => {
     const { userDetail } = this.state;
